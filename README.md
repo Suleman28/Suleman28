@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"><img src=https://github-readme-stats.vercel.app/api?username=Suleman28&show_icons=true alt=fabian9799 /> </p>
+
 <!--
 **Suleman28/Suleman28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
