@@ -9,21 +9,17 @@
 
 ### My name is Suleman and I'm a software engineer based in London, United Kingdom. I'm really passionate about building stuff using what I know to help make a positive impact on people's lives.
 
-<br>
 
 ### Some pretty cool stuff I'm currently working on ⚡
 
 ### - **Plexado**
 
 > A discord bot that is designed to simplify server management.
-
-<br>
-
+> 
 ### - **Codesy**
 
 > A community that is intended to bring existing software developers/tech entrepreneurs together from around the world and work on solving problems together around the world using the power of open source.
 
-<br>
 
 ### **Get in touch** (I don't bite)
 
@@ -34,7 +30,6 @@
 
 - Learn new technologies more in depth.
 - Become a better engineer.
-  <br>
   <br>
 
 ### **Some stats**
