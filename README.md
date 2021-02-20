@@ -7,7 +7,7 @@
 
 #
 
-### My name is Suleman and I'm a software engineer based in London, United Kingdom. I'm really passionate about building stuff using what I know to help make a positive impact on people's lives.
+My name is Suleman and I'm a software engineer based in London, United Kingdom. I'm really passionate about building stuff using what I know to help make a positive impact on people's lives.
 
 
 ### Some pretty cool stuff I'm currently working on ⚡
